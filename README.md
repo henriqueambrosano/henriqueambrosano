@@ -34,10 +34,8 @@ I am 26 years old, currently I am student at Trybe (I started in Feb 2022), whic
 
 
 # Top languages & GitHub stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueambrosano)](https://github.com/henriqueambrosano/github-readme-stats)
-[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueambrosano)](https://github.com/henriqueambrosano/github-readme-stats)
-[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueambrosano&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact)
-
+<a href="https://github.com/RafaelRRhocha">
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriqueambrosano&show_icons=true&hide=issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="henriqueambrosano's GitHub stats">
 <a href="https://github.com/henriqueambrosano" align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueambrosano&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
 

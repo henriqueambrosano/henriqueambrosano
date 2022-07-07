@@ -40,5 +40,5 @@ I am 26 years old, currently I am student at Trybe (I started in Feb 2022), whic
 
 # Reach me
 
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](http://wa.me/5531984901778)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"](https://linkedin.com/in/hambrosano)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/5531984901778)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/hambrosano)

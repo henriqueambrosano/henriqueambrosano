@@ -19,8 +19,7 @@ I am 26 years old, currently I am student at Trybe (I started in Feb 2022), whic
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/react%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/redux%#A533FF.svg?&style=for-the-badge&logo=redux&logoColor=white" />
-  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-  
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />  
 </div>
 <br/>
 

@@ -36,3 +36,8 @@ I am 26 years old, currently I am student at Trybe (I started in Feb 2022), whic
 # Top languages & GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueambrosano)](https://github.com/henriqueambrosano/github-readme-stats)
 [![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueambrosano)](https://github.com/henriqueambrosano/github-readme-stats)
+
+
+# Reach me
+
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](http://wa.me/5531984901778)

@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 ## About me :mortar_board:
-I am 25 years old, currently I am student at Trybe (I started in Feb 2022), which is a programming school that trains Full-Stack developers, my graduation forecast is in february 2023. I am passionate about learning and also about teaching
+I am 26 years old, currently I am student at Trybe (I started in Feb 2022), which is a programming school that trains Full-Stack developers, my graduation forecast is in february 2023. I am passionate about learning and also about teaching
 
 - 🔭 I’m currently working on ... IEBT digital as a junior front-end developer
 - 🌱 I’m currently learning ... Vuejs, SQL and TypeScript
@@ -17,7 +17,7 @@ I am 25 years old, currently I am student at Trybe (I started in Feb 2022), whic
   <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" />
 </div>
 <br/>
 

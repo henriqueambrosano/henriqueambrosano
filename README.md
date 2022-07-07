@@ -6,7 +6,6 @@ I am 26 years old, currently I am student at Trybe (I started in Feb 2022), whic
 - 🔭 I’m currently working on ... IEBT digital as a junior front-end developer
 - 🌱 I’m currently learning ... Vuejs, SQL and TypeScript
 - 👯 I’m looking to collaborate on ... Any project
-- 😄 Pronouns: ... He
 <br/>
 
 ### Languages and Tools:

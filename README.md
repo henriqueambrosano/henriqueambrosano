@@ -4,8 +4,12 @@
 I am 26 years old, currently I am student at Trybe (I started in Feb 2022), which is a programming school that trains Full-Stack developers, my graduation forecast is in february 2023. I am passionate about learning and also about teaching
 
 - 🔭 I’m currently working on ... IEBT digital as a junior front-end developer
-- 🌱 I’m currently learning ... Vuejs, SQL and TypeScript
 - 👯 I’m looking to collaborate on ... Any project
+- 🧠  I'm learning Vuejs, SQL and TypeScript
+- 🌍  I'm based in Minas Gerais - Brazil
+- 🖥️  See my portfolio at [My Portfolio](https://henriqueambrosano.vercel.app)
+- ✉️  You can contact me at [henriqueambrosano@hotmail.com](mailto:henriqueambrosano@hotmail.com)
+
 <br/>
 
 ### Languages and Tools:

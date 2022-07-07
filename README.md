@@ -32,6 +32,6 @@ I am 26 years old, currently I am student at Trybe (I started in Feb 2022), whic
 - Backend Development (to become a Full-Stack developer)
 - Larn Solidity and more about BlockChain development
 
-# GitHub stats / Top languages
-[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueambrosano)](https://github.com/henriqueambrosano/github-readme-stats)
+# Top languages & GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueambrosano)](https://github.com/henriqueambrosano/github-readme-stats)
+[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueambrosano)](https://github.com/henriqueambrosano/github-readme-stats)

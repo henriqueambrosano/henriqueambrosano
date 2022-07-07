@@ -33,5 +33,7 @@ I am 26 years old, currently I am student at Trybe (I started in Feb 2022), whic
 - Larn Solidity and more about BlockChain development
 
 # GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueambrosano)](https://github.com/henriqueambrosano/github-readme-stats)
+
+# Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueambrosano)](https://github.com/henriqueambrosano/github-readme-stats)

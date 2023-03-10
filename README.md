@@ -1,11 +1,11 @@
 # Welcome to my github! 👋
 
 ## About me :mortar_board:
-I am 26 years old, currently I am student at Trybe (I started in Feb 2022), which is a programming school that trains Full-Stack developers, my graduation forecast is in february 2023. I am passionate about learning and also about teaching
+I am 26 years old, I've just graduated at Trybe, which is a programming school that trains Full-Stack developers here in Brazil. I am passionate about learning and also about teaching
 
-- 🔭 I’m currently working on ... IEBT digital as a junior front-end developer
+- 🔭 I’m currently looking for job
 - 👯 I’m looking to collaborate on ... Any project
-- 🧠  I'm learning Vuejs, SQL and TypeScript
+- 🧠  I'm learning Vuejs, Python and TypeScript
 - 🌍  I'm based in Minas Gerais - Brazil
 - 🖥️  See my portfolio at [My Portfolio](https://henriqueambrosano.vercel.app)
 - ✉️  You can contact me at [henriqueambrosano@hotmail.com](mailto:henriqueambrosano@hotmail.com)
@@ -32,7 +32,7 @@ I am 26 years old, currently I am student at Trybe (I started in Feb 2022), whic
 <br/>
 
 ## What I want to do next :thinking:
-- Backend Development (to become a Full-Stack developer)
+- Improve all the languages that i already know(to become a better Full-Stack developer)
 - Larn Solidity and more about BlockChain development
 
 

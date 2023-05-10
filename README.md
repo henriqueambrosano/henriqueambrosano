@@ -33,7 +33,7 @@ I am 26 years old, I've just graduated at Trybe, which is a programming school t
 
 ## What I want to do next :thinking:
 - Improve all the languages that i already know(to become a better Full-Stack developer)
-- Larn Solidity and more about BlockChain development
+- Larn About machine learning and AI
 
 
 # GitHub stats & Top languages
